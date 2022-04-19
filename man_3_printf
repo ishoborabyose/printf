@@ -38,11 +38,11 @@ See %d.
 .IP %u
 Prints unsigned int.
 .IP %o
-Converts unsigned int to octal.
+This converts unsigned int to octal.
 .IP %x
 Converts unsigned int to hexadecimal (lowercase)
 .IP %X
-Converts unsigned int to hexadecimal (uppercase)
+This converts unsigned int to hexadecimal (uppercase)
 .IP %r
 Prints reverse of intput string
 .IP %R
